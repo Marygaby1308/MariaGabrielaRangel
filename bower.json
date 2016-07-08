@@ -1,0 +1,16 @@
+{
+  "name": "test_pleisi",
+  "authors": [
+    "Maria rangel <marygaby1308@gmail.com>",
+    "Jose Enrique Marquez <jmrqz21@gmail.com>"
+  ],
+  "description": "Test FrontEnd",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "angular": "angularjs#^1.5.6",
+    "angular-animate": "^1.5.6",
+    "bootstrap": "^3.3.6"
+  }
+}
